@@ -9,6 +9,8 @@ To begin, we can use a sturdy base, such as a wooden board, to hold the componen
 of the demo model. Next, we can attach a spring isolator to the base using screws. 
 The spring isolator can be a simple metal spring with one end attached to the base 
 and the other end attached to a hook.
+![image](https://user-images.githubusercontent.com/109122708/219920649-586d5020-e0d1-45aa-b6fa-6698e8106254.png)
+
 We can then mount a stepper motor on the base using screws. The motor will act as 
 the winch in this model. We can connect the winch to a rope or cable that is attached 
 to a load, which can be represented by a small weight or object. The load should be 
